@@ -9,6 +9,12 @@ Thanks for taking the time to contribute to Sandblizzard. This repository contai
 3. Review the existing README and package scripts before changing program, SDK, or relayer code.
 4. Keep changes scoped to one issue or improvement per pull request.
 
+## Rewards and Wallet Setup
+
+Some bounty issues are part of the beta testing trail. If a bounty asks for reward setup, use devnet unless the issue says otherwise and connect your GitHub profile with your wallet through the Sandblizzard bridge before expecting payout.
+
+Never share seed phrases, private keys, local keypairs, or production credentials in an issue, pull request, or chat. Wallet setup for rewards should only require public wallet information or a normal wallet signature flow.
+
 ## Development Workflow
 
 Use clear branch names such as `fix/short-description` or `docs/short-description`. Before opening a pull request, check the files you changed and avoid committing generated output, local keys, wallets, or environment-specific files.
